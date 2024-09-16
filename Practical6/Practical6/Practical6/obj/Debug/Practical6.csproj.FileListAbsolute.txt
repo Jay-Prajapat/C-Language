@@ -1,0 +1,8 @@
+C:\Users\jay\Documents\C#Language\Practical6\Practical6\Practical6\bin\Debug\Practical6.exe.config
+C:\Users\jay\Documents\C#Language\Practical6\Practical6\Practical6\bin\Debug\Practical6.exe
+C:\Users\jay\Documents\C#Language\Practical6\Practical6\Practical6\bin\Debug\Practical6.pdb
+C:\Users\jay\Documents\C#Language\Practical6\Practical6\Practical6\obj\Debug\Practical6.csproj.AssemblyReference.cache
+C:\Users\jay\Documents\C#Language\Practical6\Practical6\Practical6\obj\Debug\Practical6.csproj.SuggestedBindingRedirects.cache
+C:\Users\jay\Documents\C#Language\Practical6\Practical6\Practical6\obj\Debug\Practical6.csproj.CoreCompileInputs.cache
+C:\Users\jay\Documents\C#Language\Practical6\Practical6\Practical6\obj\Debug\Practical6.exe
+C:\Users\jay\Documents\C#Language\Practical6\Practical6\Practical6\obj\Debug\Practical6.pdb
